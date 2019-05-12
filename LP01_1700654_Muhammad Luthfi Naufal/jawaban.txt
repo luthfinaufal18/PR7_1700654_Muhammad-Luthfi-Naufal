@@ -1,0 +1,8 @@
+1. Inner Join
+Inner Join merupakan perintah untuk menampilkan semua data yang mempunyai nilai sama dan berhubungan antara id yang ada pada tabel satu dengan id pada tabel lainnya.
+
+2. Left Join
+Left Join merupakan cara menghubungkan tabel dan menampilkan semua data (kiri) pada tabel yang tidak berhubungan, sedangkan data yang kosong akan bernilai NULL.
+
+3. Right Join
+Right Join, fungsi ini hampir sama dengan fungsi Left Join ataupun kebalikannya, dimana Right Join akan menghubungkan tabel dan menampilkan semua data (kanan) pada tabel yang tidak berhubungan, dan data yang kosong akan bernilai NULL.
